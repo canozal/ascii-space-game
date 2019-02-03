@@ -3,6 +3,7 @@
 that is a basic game made with c++ and rlutil library
 
 controls: wasd
+
 shoot: k
 
 the game ends when the ship's health or bullet run out.
