@@ -1,5 +1,7 @@
 # ascii-space-game
 
+that is a basic game made with c++ and rlutil library
+
 controls: wasd
 shoot: k
 
