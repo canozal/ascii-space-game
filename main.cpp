@@ -22,7 +22,7 @@ int main(){    srand(time(NULL));
  
     rlutil::locate(1,1);
     
-    cout << "If you want change the speed of the meteorites or bullets,\nyou can change the code line where i specified.\n\n";
+    cout << "If you want change the speed of the meteorites or bullets,\nyou can change the code line where i specified in main.\n\n";
 
     
     
