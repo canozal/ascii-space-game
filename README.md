@@ -7,8 +7,8 @@ shoot: k
 
 the game ends when the ship's health or bullet run out.
 
-blue meteor = 3 health
-yellow meteor = 2 health
+blue meteor = 3 health,
+yellow meteor = 2 health,
 red meteor = 1 health
 
 If you want change the speed of the meteorites or bullets, you can change the code line where i specified in main.
